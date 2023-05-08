@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/SMS/static/css/main.f42d6700.css",
-    "main.js": "/SMS/static/js/main.1471760e.js",
+    "main.js": "/SMS/static/js/main.eb6b7f94.js",
     "static/media/pic.png": "/SMS/static/media/pic.bf5144017bdbf00f7db8.png",
     "static/media/LOGO.jpg": "/SMS/static/media/LOGO.c9095d5d7a540d8317c9.jpg",
     "index.html": "/SMS/index.html",
     "main.f42d6700.css.map": "/SMS/static/css/main.f42d6700.css.map",
-    "main.1471760e.js.map": "/SMS/static/js/main.1471760e.js.map"
+    "main.eb6b7f94.js.map": "/SMS/static/js/main.eb6b7f94.js.map"
   },
   "entrypoints": [
     "static/css/main.f42d6700.css",
-    "static/js/main.1471760e.js"
+    "static/js/main.eb6b7f94.js"
   ]
 }
